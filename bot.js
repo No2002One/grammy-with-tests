@@ -1,6 +1,6 @@
 const { Bot } = require("grammy");
 
-const BOT_TOKEN = process.env.BOT_TOKEN || "test";
+const BOT_TOKEN = '1671070976:AAHB9lTVx0MNapit55dS-7zERgbJ7qQ7_cE' || "test";
 
 const bot = new Bot(BOT_TOKEN);
 

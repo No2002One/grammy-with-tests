@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node start.js",
     "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "grammy": "^1.7.0"
+    "grammy": "^1.15.1"
   },
   "devDependencies": {
     "jest": "^27.5.1"
